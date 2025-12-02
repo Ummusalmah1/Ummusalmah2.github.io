@@ -1,0 +1,99 @@
+div {
+  background-color: rgb(36, 71, 0);
+  width: 500px;
+  height: 1000px;
+  padding-top: 20px;
+}
+.facebook {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+}
+hr {
+  width: 450px;
+  border: none;
+  border-top: 0.15px solid;
+  border-color: white;
+  margin-bottom: 20px;
+}
+.mobile {
+  margin-left: 25px;
+  margin-bottom: 10px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+}
+.number {
+  margin-left: 25px;
+  width: 450px;
+  background-color:rgb(9, 20, 9) ;
+  border-color: rgb(38, 38, 255);
+  border-width: 1px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.password {
+  margin-left: 25px;
+  margin-bottom: 10px;
+  margin-top: 25px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+}
+.password2 {
+   margin-left: 25px;
+  width: 450px;
+  background-color:rgb(9, 20, 9) ;
+  border-color: rgb(38, 38, 255);
+  border-width: 1px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.log-in {
+  margin-left: 25px;
+  margin-right: 30px;
+  margin-top:20px;
+  margin-bottom: 5px;
+  width: 440px;
+  color:white ;
+  background-color: rgb(38, 38, 255);
+  border-width: 0.15px;
+  border-radius: 5px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  font-size: 10px;
+  cursor: pointer;
+}
+.or {
+  text-align: center;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+a {
+  display: block;
+  margin-left: 25px;
+  color: rgb(1, 1, 179);
+  font-size: 13px;
+  font-family:  Arial, Helvetica, sans-serif;
+  margin-top: 20px;
+}
+.create {
+  width: 200px;
+  margin-left: 140px;
+  color: white;
+  background-color: rgb(0, 155, 0);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 12px;
+  border-width: 0.15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
